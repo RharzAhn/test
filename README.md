@@ -1,1 +1,1 @@
-[실험1](./MarkDown.md)
+[실험1](/MarkDown.md)
