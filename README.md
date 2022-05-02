@@ -1,1 +1,1 @@
-[실험1](https://github.com/RharzAhn/test/blob/main/MarkDown.md)
+[실험1](/MarkDown.md)
